@@ -1,1 +1,2 @@
 # AI-SMART-TIC-TAC-TOE-MINIMAX---SVM-CODECLAUSE---AI ENGINEERING
+I developed an AI-powered Tic-Tac-Toe game using the Support Vector Machine (SVM) algorithm and the minimax strategy. The project involved loading and preprocessing game data, performing exploratory data analysis, hyperparameter tuning, and SVM modeling. A GUI was created for real-time user interaction, enabling the AI to play optimally against human players.
